@@ -24,13 +24,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](https://raw.githubusercontent.com/osazuwamatthewogbebor/product-preview-car-fem/main/screenshot.PNG)
+![](https://raw.githubusercontent.com/osazuwamatthewogbebor/product-preview-card-fem/main/screenshot.PNG)
 
 ### Links
 
-- Solution URL: https://github.com/osazuwamatthewogbebor/product-preview-car-fem/settings/pages
+- Solution URL: https://github.com/osazuwamatthewogbebor/product-preview-card-fem/settings/pages
 
-- Live Site URL: https://osazuwamatthewogbebor.github.io/product-preview-car-fem/
+- Live Site URL: https://osazuwamatthewogbebor.github.io/product-preview-card-fem/
 
 ## My process
 
