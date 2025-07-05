@@ -24,12 +24,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](https://raw.githubusercontent.com/osazuwamatthewogbebor/product-preview-car-fem/main/screenshot.PNG)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/osazuwamatthewogbebor/product-preview-car-fem/settings/pages
+
+- Live Site URL: https://osazuwamatthewogbebor.github.io/product-preview-car-fem/
 
 ## My process
 
