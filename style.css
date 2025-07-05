@@ -26,18 +26,18 @@
 
 body {
     margin: 0;
-    padding: 1.5rem;
+    padding: 0;
     background-color: var(--Cream);
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    min-height: 100vh;
+    height: 100vh;
     
 }
 
 .container { 
-    margin: 1rem; 
+    width: 20rem; 
     background-color: var(--White);
     border-radius: 10px;
 }
@@ -61,19 +61,21 @@ body {
     font-weight: 700;
     font-size: 1.8rem; 
     margin-block: 0;
+    line-height: 1;
 }
 .p-text {
     font-size: 14px;
     color: var(--Grey);
     font-family: var(--fontMontserrat);
     font-weight: 500;
+    line-height: 1.5;
 }
 .price-section {
     display: flex;
     align-items: center;
     justify-content: start;
     gap: 15px;
-    padding-block: 15px;
+    padding-block: 10px;
 }
 .price {
     color: var(--Green500);
@@ -108,7 +110,7 @@ body {
 }
 
 
-.attribution { font-size: 11px; text-align: center; margin-top: -5px; padding-bottom: 10px;}
+.attribution { font-size: 11px; text-align: center; padding-block: 5px;}
 .attribution a { color: hsl(228, 45%, 44%); }
 
 
